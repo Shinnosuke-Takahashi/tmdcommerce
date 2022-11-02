@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tmdcommerce/static/css/main.6c02f799.css",
-    "main.js": "/tmdcommerce/static/js/main.5b11d336.js",
+    "main.js": "/tmdcommerce/static/js/main.eb1a43a6.js",
     "static/media/header.jpg": "/tmdcommerce/static/media/header.14d290de3efb9889ad33.jpg",
     "static/media/Store_logo.png": "/tmdcommerce/static/media/Store_logo.c549fab772337977e226.png",
     "index.html": "/tmdcommerce/index.html",
     "main.6c02f799.css.map": "/tmdcommerce/static/css/main.6c02f799.css.map",
-    "main.5b11d336.js.map": "/tmdcommerce/static/js/main.5b11d336.js.map"
+    "main.eb1a43a6.js.map": "/tmdcommerce/static/js/main.eb1a43a6.js.map"
   },
   "entrypoints": [
     "static/css/main.6c02f799.css",
-    "static/js/main.5b11d336.js"
+    "static/js/main.eb1a43a6.js"
   ]
 }
